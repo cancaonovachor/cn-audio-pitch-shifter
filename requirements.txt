@@ -1,0 +1,4 @@
+pyrubberband
+soundfile
+numpy
+pydub
